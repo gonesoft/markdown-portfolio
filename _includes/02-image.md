@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Octodex ninja github](https://radicalpenguin.me/blog/wp-content/uploads/2014/03/kimonotocat.png)
