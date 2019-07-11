@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+:sparkles: *Seems to be an italic sentence.*
+_Also this with and underscore._
+**A bold text too.** :sparkles:
